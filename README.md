@@ -63,11 +63,9 @@ The app includes built-in error handling for issues like:
 - Authentication failures
 
 ## Screenshots
-![App Screenshot 1](https://i.ibb.co/cQKtwNr/your-image.jpg)
-![App Screenshot 2](https://i.ibb.co/1Z5RtWj/your-image2.jpg)
-
-
-
+![Screenshot (1269)](https://github.com/user-attachments/assets/53bec58a-c0d3-44d8-b98d-722cc34cf47c)
+![Screenshot (1270)](https://github.com/user-attachments/assets/de0c59d7-a3e0-4485-86ff-290c97f1e1d3)
+![Screenshot (1271)](https://github.com/user-attachments/assets/3129b39a-f87f-435f-81d6-587125d21f42)
 
 ## 🤝 Contributing
 
